@@ -1,0 +1,14 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+#header, #gameArea, #footer {
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#gameArea {
+	background-color: white;
+	padding: 2em 0 2em 0;
+}
